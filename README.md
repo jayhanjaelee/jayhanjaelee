@@ -1,6 +1,6 @@
 # 🧑🏻‍💻  About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=Hi+there+👋,+I+am+Hanjae+Lee;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=Hi+there+👋,+I+am+Hanjae+Lee;Backend+Developer;)](https://git.io/typing-svg)
 
 | Property | Value |
 | -------------- | ------ |
