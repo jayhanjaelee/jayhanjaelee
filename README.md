@@ -1,14 +1,12 @@
 # 🧑🏻‍💻 Hanjae Lee
 
-Hi 🙋🏻‍♂️, I'm Hanjae Lee.
+Hi, I'm Hanjae Lee.
 
 I am Backend Developer.
 
-I like Programming ✌️️.
+I like Programming.
 
 <br>
-
-![Hanjae Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayhanjaelee&theme=onedark&show_icons=true&hide=stars&custom_title=Hanjae%20Lee's%20Effort%20Stat)
 
 ## About Me
 
@@ -27,7 +25,6 @@ I like Programming ✌️️.
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Framework
@@ -47,7 +44,7 @@ I like Programming ✌️️.
 
 ---
 
-i![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Learning
@@ -60,11 +57,5 @@ i![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=j
 
 ---
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
