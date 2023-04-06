@@ -1,6 +1,7 @@
-# 🧑🏻‍💻 Hanjae Lee
+# 🧑🏻‍💻  About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hanjae+Lee;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=Hi+there+👋,+I+am+Hanjae+Lee;)](https://git.io/typing-svg)
+
 | Property | Values |
 | -------------- | ------ |
 | **Language** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
